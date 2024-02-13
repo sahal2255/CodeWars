@@ -1,7 +1,4 @@
 function sayHello(name) {
-
-    console.log('Hello'+' '+name);
-      
-    }
-    
-    sayHello('Mr.Spock')
+console.log('Hello'+' '+name);
+}
+sayHello('Mr.Spock')
