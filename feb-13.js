@@ -9,15 +9,16 @@
 
 
 
-function removeChar(str) {
-    if (str.length >= 2) {
-        return str.substring(1, str.length - 1);
-    } else {
-        return str;
-    }
-}
+// function removeChar(str) {
+//     if (str.length >= 2) {
+//         return str.substring(1, str.length - 1);
+//     } else {
+//         return str;
+//     }
+// }
 
 
-const originalString = "example";
-const result = removeChar(originalString);
-console.log(result);
+// const originalString = "example";
+// const result = removeChar(originalString);
+// console.log(result);
+
