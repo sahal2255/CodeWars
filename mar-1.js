@@ -30,3 +30,12 @@ console.log(addLength("apple ban"));
 
 
 
+function combat(health, damage) {
+    // Write your code here
+    let result = health - damage 
+    if (result<0){
+      result=0
+    }
+    return result
+  }
+  console.log(combat(100,30))
