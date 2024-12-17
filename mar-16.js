@@ -7,3 +7,10 @@ var countSheep = function (num){
     return sheepCount
   }
   console.log(countSheep(2));
+
+
+
+
+  function replace(s){
+    
+  }
